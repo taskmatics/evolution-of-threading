@@ -1,0 +1,21 @@
+﻿<Application 
+    x:Class="BackgroundWorkerDemo.App" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    StartupUri="1. MainWindow - Sync.xaml">
+
+<!--<Application 
+    x:Class="BackgroundWorkerDemo.App" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    StartupUri="2. MainWindow - Thread.xaml">-->
+
+<!--<Application 
+    x:Class="BackgroundWorkerDemo.App" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    StartupUri="3. MainWindow - BackgroundWorker.xaml">-->
+
+<!--<Application 
+    x:Class="BackgroundWorkerDemo.App" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    StartupUri="4. MainWindow - Task.xaml">-->
+
+<!--<Application 
+    x:Class="BackgroundWorkerDemo.App" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    StartupUri="5. MainWindow - Async.xaml">-->
+
+</Application>

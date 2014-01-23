@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserInterfaceDemo", "UserInterfaceDemo\UserInterfaceDemo.csproj", "{2855A760-B9D0-4064-A714-F8BA377A606A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParallellStacksTest", "ParallellStacksTest\ParallellStacksTest.csproj", "{8F091567-E4F8-4BA7-844F-B112FCE29845}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkItemProcessor", "WorkItemProcessor\WorkItemProcessor.csproj", "{71CF73D2-1C14-4E47-9B17-A0895AB15F29}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Slides", "Slides", "{2477BA73-8928-4476-9B28-E51D82DFDBA5}"
+	ProjectSection(SolutionItems) = preProject
+		Slides\Evolution of Threading in .NET.pptx = Slides\Evolution of Threading in .NET.pptx
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2855A760-B9D0-4064-A714-F8BA377A606A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2855A760-B9D0-4064-A714-F8BA377A606A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2855A760-B9D0-4064-A714-F8BA377A606A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2855A760-B9D0-4064-A714-F8BA377A606A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F091567-E4F8-4BA7-844F-B112FCE29845}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F091567-E4F8-4BA7-844F-B112FCE29845}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F091567-E4F8-4BA7-844F-B112FCE29845}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F091567-E4F8-4BA7-844F-B112FCE29845}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71CF73D2-1C14-4E47-9B17-A0895AB15F29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71CF73D2-1C14-4E47-9B17-A0895AB15F29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71CF73D2-1C14-4E47-9B17-A0895AB15F29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71CF73D2-1C14-4E47-9B17-A0895AB15F29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
