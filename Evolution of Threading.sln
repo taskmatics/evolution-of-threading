@@ -12,6 +12,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Slides", "Slides", "{2477BA73-8928-4476-9B28-E51D82DFDBA5}"
 	ProjectSection(SolutionItems) = preProject
 		Slides\Evolution of Threading in .NET.pptx = Slides\Evolution of Threading in .NET.pptx
+		C:\Users\easy\Desktop\Code Camp\Threading Resources.docx = C:\Users\easy\Desktop\Code Camp\Threading Resources.docx
 	EndProjectSection
 EndProject
 Global
